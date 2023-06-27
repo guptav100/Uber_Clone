@@ -10,10 +10,10 @@ A clone of the popular Uber app built with React Native and Node.js.
 
 ## Features
 
-- Location-based ride booking
-- Real-time tracking of drivers
-- Payment integration
-- Ride history and rating system
+- Select Your Location and Destination
+- It calculates the Travel Time and Distance
+- Privilege to choose your budget and comfort cabs.
+- Ride Details.
 
 ## Technologies Used
 
